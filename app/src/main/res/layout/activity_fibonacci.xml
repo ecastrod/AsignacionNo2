@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/nav_linear_layout_fibonacci"
+    android:weightSum="1">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scrollHorizontally="true"
+        android:text="FIBONNACCI"
+        android:id="@+id/label_titulo"
+        android:textAlignment="center" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Digite el Numero"
+        android:id="@+id/label_instrucciones"/>
+
+    <EditText
+        android:layout_width="144dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/editTextFactorial"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="100dp"
+        tools:background="@color/cardview_light_background" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Resultado:"
+        android:id="@+id/label_resultado"/>
+
+    <EditText
+        android:layout_width="144dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/editTextFibonacciResultado"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="100dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        tools:background="@color/cardview_light_background"
+        android:layout_weight="0.10" />
+
+
+</LinearLayout>
