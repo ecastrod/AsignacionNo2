@@ -23,6 +23,8 @@ public class FibonacciLayoutFragment extends Fragment{
     EditText editTextResultado;
     EditText editTextResult;
 
+    public long lResult;
+
     public FibonacciLayoutFragment() {
         // Required empty public constructor
     }
@@ -60,6 +62,7 @@ public class FibonacciLayoutFragment extends Fragment{
                 FibonacciUtil cFibo = new FibonacciUtil(numeroacalcular);
 
                 long numResultado = cFibo.calculateFibonacci();
+                lResult = numResultado;
 
                 AlertDialog alertDialog = new AlertDialog.Builder(getActivity()).create();
                 alertDialog.setTitle("Resultado es:");

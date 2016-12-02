@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\ESTEBAN CASTRO\AndroidStudioProjects\AsignacionNo2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\ESTEBAN CASTRO\AndroidStudioProjects\AsignacionNo2\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_1201bef42fe68361de88530aa371bdd575147d06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ESTEBAN CASTRO\AndroidStudioProjects\AsignacionNo2\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\ESTEBAN CASTRO\AndroidStudioProjects\AsignacionNo2\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.1_8d5f08467165739a037e53fc4e21c57ea5ae1367.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ESTEBAN CASTRO\AndroidStudioProjects\AsignacionNo2\app\build\intermediates\exploded-aar\com.android.support\support-v13\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e3c7e8ff9f476d0d93ee7b046fbe8037a2b822c0">
+        <dex dex="C:\Users\ESTEBAN CASTRO\AndroidStudioProjects\AsignacionNo2\app\build\intermediates\pre-dexed\debug\com.android.support-support-v13-24.2.1_8c6a4bbc67de863e9ae2f03a7620e1b89f229b73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ESTEBAN CASTRO\AndroidStudioProjects\AsignacionNo2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\ESTEBAN CASTRO\AndroidStudioProjects\AsignacionNo2\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_3caae6642de08124c510a090486c51aee6beda95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ESTEBAN CASTRO\AndroidStudioProjects\AsignacionNo2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\ESTEBAN CASTRO\AndroidStudioProjects\AsignacionNo2\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_97de903c3f69d8af0a4194685e4ba1feb8ed6dbf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\ESTEBAN CASTRO\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\ESTEBAN CASTRO\AndroidStudioProjects\AsignacionNo2\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_3273ded9376843c24b8ce917ed3aba35cf4468ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ESTEBAN CASTRO\AndroidStudioProjects\AsignacionNo2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\ESTEBAN CASTRO\AndroidStudioProjects\AsignacionNo2\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_cb41af45682e6d8245015a22404b5c9a5a5da54e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ESTEBAN CASTRO\AndroidStudioProjects\AsignacionNo2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\ESTEBAN CASTRO\AndroidStudioProjects\AsignacionNo2\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_2713f47728d7c9c56fcd5e67226145692d45be58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ESTEBAN CASTRO\AndroidStudioProjects\AsignacionNo2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\ESTEBAN CASTRO\AndroidStudioProjects\AsignacionNo2\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_67f29b430cba67efc66553f4041a9f7cc6926193.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ESTEBAN CASTRO\AndroidStudioProjects\AsignacionNo2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\ESTEBAN CASTRO\AndroidStudioProjects\AsignacionNo2\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_99c14b6b5ccc1115ba480274059ba523c106babc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ESTEBAN CASTRO\AndroidStudioProjects\AsignacionNo2\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\ESTEBAN CASTRO\AndroidStudioProjects\AsignacionNo2\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_8ff34fcc18e5a19033cbcb076caa563fb2ac3582.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ESTEBAN CASTRO\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="C:\Users\ESTEBAN CASTRO\AndroidStudioProjects\AsignacionNo2\app\build\intermediates\pre-dexed\debug\butterknife-7.0.1_1c6c102b2926e750cc32ae5be1a577bcf368073c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ESTEBAN CASTRO\AndroidStudioProjects\AsignacionNo2\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\ESTEBAN CASTRO\AndroidStudioProjects\AsignacionNo2\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_393c5dfe8d16f347a118fe90f9a86e945f1f705d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ESTEBAN CASTRO\AndroidStudioProjects\AsignacionNo2\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\ESTEBAN CASTRO\AndroidStudioProjects\AsignacionNo2\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_867e097719666dd3d9a6802aac8097cb6dbc22a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ESTEBAN CASTRO\AndroidStudioProjects\AsignacionNo2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\ESTEBAN CASTRO\AndroidStudioProjects\AsignacionNo2\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_136d0f287ca2acc6d4ed81d57a3d07a9ba497933.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ESTEBAN CASTRO\AndroidStudioProjects\AsignacionNo2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\ESTEBAN CASTRO\AndroidStudioProjects\AsignacionNo2\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_c6e1d042628d151212c9acc0edbab44f5ca1aee0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ESTEBAN CASTRO\AndroidStudioProjects\AsignacionNo2\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="C:\Users\ESTEBAN CASTRO\AndroidStudioProjects\AsignacionNo2\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-24.2.1_def9ce75bade171a531bb7722b27190077cca17a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ESTEBAN CASTRO\AndroidStudioProjects\AsignacionNo2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\ESTEBAN CASTRO\AndroidStudioProjects\AsignacionNo2\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_8a70c6548d3d85cf5ffff6351cfcd0ff24e28b05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ESTEBAN CASTRO\AndroidStudioProjects\AsignacionNo2\app\build\intermediates\exploded-aar\com.android.support\support-v13\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c07fb99b729345908dda75fadbbf882e300631ff">
+        <dex dex="C:\Users\ESTEBAN CASTRO\AndroidStudioProjects\AsignacionNo2\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_53e7fa3a2191fec4a67b4f4ab60ed617ba8bf7b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ESTEBAN CASTRO\AndroidStudioProjects\AsignacionNo2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\ESTEBAN CASTRO\AndroidStudioProjects\AsignacionNo2\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_bf8d3a149fa62a9856388e3d57b1682cfa6529fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ESTEBAN CASTRO\AndroidStudioProjects\AsignacionNo2\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\ESTEBAN CASTRO\AndroidStudioProjects\AsignacionNo2\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_665debf6369513e6c30aa0330b2d68b6ff378e20.jar" />
+    </item>
+
+</items>

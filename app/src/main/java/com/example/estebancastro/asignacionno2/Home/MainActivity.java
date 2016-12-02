@@ -35,6 +35,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
     private NavigationView mNavigationView;
     private CoordinatorLayout mMainCoordinatorLayout;
     private int iCodFragment = 0; // (1)Factorial, (2)Fibonacci
+    private Fragment genericFragment;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -45,6 +46,12 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         initViews();
         setupNavigationView();
         //showInitialFragment();
+    }
+
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        getMenuInflater().inflate(R.menu.main_menu, menu);
+        return super.onCreateOptionsMenu(menu);
     }
 
     private void initToolbar() {
@@ -97,14 +104,18 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
 
     private void showFactorialLayoutFragment() {
         updateToolbarTitle("Factorial");
-        Fragment factorialFragment = FactorialLayoutFragment.newInstance();
-        changeFragment(factorialFragment);
+        //Fragment factorialFragment = FactorialLayoutFragment.newInstance();
+        //changeFragment(factorialFragment);
+        genericFragment = FactorialLayoutFragment.newInstance();
+        changeFragment(genericFragment);
     }
 
     private void showFibonacciLayoutFragment() {
         updateToolbarTitle("Fibonacci");
-        Fragment fibonacciFragment = FibonacciLayoutFragment.newInstance();
-        changeFragment(fibonacciFragment);
+        //Fragment fibonacciFragment = FibonacciLayoutFragment.newInstance();
+        //changeFragment(fibonacciFragment);
+        genericFragment = FibonacciLayoutFragment.newInstance();
+        changeFragment(genericFragment);
     }
 
 
@@ -155,17 +166,18 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
 
         if (iCodFragment == 1)
         {
-            strBodyResult = "El resultado del factorial es: ";
-            //strBodyResult = "El resultado del factorial es: " + Long.toString(((FactorialLayoutFragment)MyActiveFragment).miresultado);
+            //strBodyResult = "El resultado del factorial es: ";
+            strBodyResult = "El resultado del factorial es: " + Long.toString(((FactorialLayoutFragment)genericFragment).lResult);
         }
         else {
-            strBodyResult = "El resultado del fibonacci es: ";
-            //strBodyResult = "El resultado del fibonacci es: " + Long.toString(((FibonacciLayoutFragment)MyActiveFragment).miresultado);
+            //strBodyResult = "El resultado del fibonacci es: ";
+            strBodyResult = "El resultado del fibonacci es: " + Long.toString(((FibonacciLayoutFragment)genericFragment).lResult);
         }
 
         shareIntent.putExtra(Intent.EXTRA_SUBJECT,"ENVIO RESULTADO" );
         shareIntent.putExtra(Intent.EXTRA_TEXT, strBodyResult.toString());
         shareIntent.setType("text/plain");
+
         if (shareIntent.resolveActivity(getPackageManager()) != null) {
             startActivity(shareIntent);
         }

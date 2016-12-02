@@ -21,6 +21,9 @@ import com.example.estebancastro.asignacionno2.R;
 public class FactorialLayoutFragment extends Fragment {
 
 
+    public long lResult;
+
+
     Button buttonCalculate;
     EditText editTextNum;
     EditText editTextResult;
@@ -66,6 +69,7 @@ public class FactorialLayoutFragment extends Fragment {
                 FactorialUtil cFacto = new FactorialUtil(num);
 
                 long numResultado = cFacto.calculateFactorial();
+                lResult = numResultado;
 
                 AlertDialog alertDialog = new AlertDialog.Builder(getActivity()).create();
                 alertDialog.setTitle("Resultado");

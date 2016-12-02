@@ -17,7 +17,7 @@
             android:id="@+id/text_view_toolbar_title"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"
-            android:text="Title"
+            android:text="Asignacion No 2"
             android:textColor="@color/textColorPrimary"
             android:textSize="@dimen/toolbar_title_text_size"
             android:gravity="center_vertical"/>
